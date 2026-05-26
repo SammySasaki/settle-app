@@ -2,6 +2,8 @@
 
 Group decisions, made easy. Settle helps groups stop debating and actually pick something — where to eat, what to watch, where to go. Everyone ranks options privately through a series of A vs B choices; Settle aggregates the preferences and reveals a winner.
 
+https://settle-it.up.railway.app/
+
 ---
 
 ## How it works
